@@ -6,7 +6,7 @@ Web Phishing Detection
 
 ![phishing](https://kratikal.com/blog/wp-content/uploads/2019/10/phishing2.jpg)
 
-# ABOUT PROJECT
+### ABOUT PROJECT
 
 Phishing is a form of fraud in which the attacker tries to learn sensitive
 information such as login credentials or account information by sending as a
