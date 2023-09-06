@@ -17,19 +17,4 @@ be unable to access online services. The reason security defenders struggle
 to detect phishing domains is because of the unique part of the website
 domain.
 
-Batch : B9-3A5E
-
-Team ID : PNT2022TMID45454
-
-Team Size : 4
-
-## Team members:
-
-Team Leader : MUHAMMAD ISMAEEL SHAREEF S S
-
-Team member : ABDUL VAHITH N
-
-Team member : AJITHKUMAR D
-
-Team member : MOHAMED SAHIL H
 
